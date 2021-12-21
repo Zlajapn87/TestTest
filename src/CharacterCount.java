@@ -31,7 +31,6 @@ public class CharacterCount {
     }
 
 
-    //Create a method to calculate the geolocation;
 
 
 
