@@ -21,5 +21,8 @@ public class mainClass {
         // Ispisivanje random mail-a
         System.out.println("Random generisan email: " + CharacterCount.mailGenerator());
 
+        // Adding a line to show the git add/commit.
+        //Adding 2nd line to show the "git diff" functionality.
+
     }
 }
