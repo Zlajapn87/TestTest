@@ -10,7 +10,7 @@ public class mainClass {
         sCharacters = sInput.nextLine();
 
         //Inicijalna poruka i brojenje karaktera;
-        System.out.println("Iniciajlna poruka je: " + sCharacters + ", i ima " + CharacterCount.counter(sCharacters) + " karaktera :)" );
+        System.out.println("Iniciajlna poruka je: " + sCharacters + ", i ima " + CharacterCount.counter(sCharacters) + " karaktera :)");
 
 
         //Nastavak druge na prvu poruku i brojenje karaktera;
@@ -21,8 +21,7 @@ public class mainClass {
         // Ispisivanje random mail-a
         System.out.println("Random generisan email: " + CharacterCount.mailGenerator());
 
-        // Adding a line to show the git add/commit.
-        //Adding 2nd line to show the "git diff" functionality.
+        // Adding a line to show the git add/commit
 
     }
 }
